@@ -1,0 +1,7 @@
+name,n_sensors,sensor_pos,pixel_overlap
+try_1,6,012345,0
+try_2,4,0123,0
+try_3,2,01,0
+try_4,6,012345,2
+try_5,4,0123,2
+try_6,2,01,2
